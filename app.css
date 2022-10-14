@@ -2,9 +2,20 @@ body {
   background: #f5d9d5;
   font-family: "Nunito", sans-serif;
 }
+
+.blurb h2 {
+  color: #ea1c2c;
+  font-weight: 300;
+  font-size: 2rem;
+}
 #mainNavbar {
   font-size: 1.5rem;
   font-weight: 300;
+}
+.blurb p {
+  color: #f498b8;
+  font-weight: 300;
+  font-size: 1.125rem;
 }
 
 #mainNavbar .nav-link {
@@ -20,6 +31,7 @@ body {
 }
 #headingGroup span {
   color: #ea1c2c;
+  font-weight: 300;
 }
 
 #headingGroup h1 {
